@@ -1,6 +1,6 @@
 module.exports = {
-  SESSION_ID: "Ice~bFdfhY", // Put Session Id Here Inside "*"
-  OWNER_NUMBER: "940764997269", // Put Owner Number Here 
+  SESSION_ID: "Ice~J8rYyM", // Put Session Id Here Inside "*"
+  OWNER_NUMBER: "940776859364", // Put Owner Number Here 
   PREFIX: ".", // Default Prefix You Can Change To .,*!?+-&%#@
   CDN: "https://mrfrankk-cdn.hf.space" // Dont change this part
 };
